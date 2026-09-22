@@ -9,6 +9,9 @@ This project analyzes customer purchases, product performance, category performa
 The project follows a practical analytics workflow:
 
 **SQL data analysis → Business insights → Power BI dashboard**
+## Power BI Dashboard
+
+![E-Commerce Sales Analytics Dashboard](screenshots/Ecommerce_Sales_Dashboard.png)
 
 ## Business Questions
 
